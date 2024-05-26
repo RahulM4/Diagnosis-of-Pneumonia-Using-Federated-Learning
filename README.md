@@ -2,4 +2,4 @@
 Diagnosis of Pneumonia from Chest X-Ray Images Using Federated Learning
 
 
-<a  target="_blank" href ="https://drive.google.com/file/d/1f7AGOGyxz5HQl4IeuNA1wNzOWTv7Dh6K/view?usp=drive_link"> Project Drive Link<a>
+<a href ="https://drive.google.com/file/d/1f7AGOGyxz5HQl4IeuNA1wNzOWTv7Dh6K/view?usp=drive_link" target="_blank"> Project Drive Link<a>
